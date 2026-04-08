@@ -1,0 +1,5 @@
+# Docs
+
+- [Contact Us](/docs/contact): Get in touch with the Sora Alternatives team.
+- [Privacy Policy](/docs/privacy): Privacy Policy for Sora Alternatives website.
+- [Terms of Service](/docs/terms): Terms of Service for Sora Alternatives website.
